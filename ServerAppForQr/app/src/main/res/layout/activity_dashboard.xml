@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dashboard">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:backgroundTint="#C0FFC3"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="206dp">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="0pt"
+            android:backgroundTint="#C66E6E"
+            android:text="Button" />
+
+        <LinearLayout
+            android:id="@+id/top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10pt"
+            android:background="#FFFFFF"
+            android:backgroundTint="#C1306534"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/HEAD1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:background="#104023"
+                android:padding="5pt"
+                android:text="User Information"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/uiname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:layout_marginTop="5pt"
+                android:paddingLeft="5pt"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/uiuserid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:paddingLeft="5pt"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/uimobile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:paddingLeft="5pt"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/uiemail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:paddingLeft="5pt"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/uicarmodel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:paddingLeft="5pt"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/uilicence"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:paddingLeft="5pt"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10pt"
+            android:background="#FFFFFF"
+            android:backgroundTint="#C1306534"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/HEAD12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:background="#104023"
+                android:padding="5pt"
+                android:text="Token Details"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/uisource"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:layout_marginTop="5pt"
+                android:paddingLeft="5pt"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/uidestination"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:paddingLeft="5pt"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/uitokens"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:paddingLeft="5pt"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/uiamountpaid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:paddingLeft="5pt"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/uitokenstatus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:paddingLeft="5pt"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tokenbackup"
+                android:layout_width="1dp"
+                android:layout_height="1dp" />
+
+            <TextView
+                android:id="@+id/uiexpire"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2pt"
+                android:paddingLeft="5pt"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/scanuser"
+            android:layout_width="match_parent"
+            android:layout_height="50pt"
+            android:backgroundTint="#4CAF50"
+            android:text="Scan User"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/opendoor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FF2323"
+            android:text="Open Boom Barrier"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

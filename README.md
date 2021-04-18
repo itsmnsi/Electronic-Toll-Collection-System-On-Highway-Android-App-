@@ -1,8 +1,12 @@
 # Electronic Toll Collection System On Highway (Android App)
 
 ### Technologies Used
-- [For Fornt-end]
-- [for Back-end]
+- For Fornt-end
+	Android
+	- Java programming
+	- XML
+- For Back-end
+	Firebase
 
 ### Teammates
 <table>

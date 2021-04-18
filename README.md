@@ -15,7 +15,7 @@ Android
 </table>
 
 
-<b>Snapshots</b><br><br>
+### Snapshots
 
 <img align="left" alt="snapshot1" src="https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/1.jpg" width="250" height="400" />
 <img align="left" alt="snapshot1" src="https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/2.jpg" width="250" height="400" />

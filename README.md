@@ -1,7 +1,7 @@
 # Electronic Toll Collection System On Highway (Android App)
 
 ### Technologies Used
-For forntend
+#### For Fornt-end :-
 Android
 
 ### Teammates

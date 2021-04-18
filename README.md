@@ -1,14 +1,14 @@
 # Electronic Toll Collection System On Highway (Android App)
 
 ### Technologies Used
+<img align="left" alt="snapshot1" src="https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/download.png" width="75" height="75"/>
+<img align="left" alt="snapshot1" src="https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/download%20(1).png" width="75" height="75"/>
 - For Fornt-end
 	- Android
 	- Java programming
 	- XML
 - For Back-end
 	- Firebase
-<img align="left" alt="snapshot1" src="https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/download.png" width="75" height="75"/>
-<img align="left" alt="snapshot1" src="https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/download%20(1).png" width="75" height="75"/>
 
 ### Teammates
 <table>

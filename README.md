@@ -1,8 +1,8 @@
 # Electronic Toll Collection System On Highway (Android App)
 
 ### Technologies Used
-#### For Fornt-end :-
-Android
+- [For Fornt-end]
+- [for Back-end]
 
 ### Teammates
 <table>

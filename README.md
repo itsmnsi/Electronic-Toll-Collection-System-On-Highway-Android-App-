@@ -1,6 +1,8 @@
 # Electronic-Toll-Collection-System-On-Highway-Android-App-
 
 <b>Snapshots</b><br><br>
+
+<img align="left" alt="snapshot1" src="https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/1.jpg" width="500" height="320" />
 ![](https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/1.jpg)
 ![](https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/2.jpg)
 ![](https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/3.jpg)

@@ -1,6 +1,6 @@
-# Electronic-Toll-Collection-System-On-Highway-Android-App-
+# Electronic Toll Collection System On Highway (Android App)
 
-<b>Technologies Used</b><br><br>
+### Technologies Used
 For forntend
 Android
 

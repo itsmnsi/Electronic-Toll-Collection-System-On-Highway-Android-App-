@@ -2,11 +2,11 @@
 
 ### Technologies Used
 - For Fornt-end
-	Android
+	- Android
 	- Java programming
 	- XML
 - For Back-end
-	Firebase
+	- Firebase
 
 ### Teammates
 <table>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Server App For Qr</string>
+    <string name="new_user_register_here1">*First Sign up here if not</string>
+    <string name="button">Sign in</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="password">Password</string>
+    <string name="todo">todo</string>
+</resources>

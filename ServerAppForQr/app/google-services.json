@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "344614329011",
+    "firebase_url": "https://toll-af1db-default-rtdb.firebaseio.com",
+    "project_id": "toll-af1db",
+    "storage_bucket": "toll-af1db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344614329011:android:3d1910c74f10ddd33aaec6",
+        "android_client_info": {
+          "package_name": "com.csociety.serverappforqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344614329011-ulntmeqp8g4p20c0nsjil08umfgin28q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjYivFVuMffOk8JCwUJ4dQSviAzGx8YDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344614329011-ulntmeqp8g4p20c0nsjil08umfgin28q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344614329011:android:d41563cf930363803aaec6",
+        "android_client_info": {
+          "package_name": "com.csociety.tollbookingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344614329011-ulntmeqp8g4p20c0nsjil08umfgin28q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjYivFVuMffOk8JCwUJ4dQSviAzGx8YDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344614329011-ulntmeqp8g4p20c0nsjil08umfgin28q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

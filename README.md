@@ -22,6 +22,14 @@ Android
 <img align="left" alt="snapshot1" src="https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/11.jpg" width="250" height="400" />
 <img align="left" alt="snapshot1" src="https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/12.jpg" width="250" height="400" />
 
+### Creators :zap::dizzy:
+<table>
+		<tr>
+			<td align="center"><img src=""  width=100px;"><br /><sub><b>Dhruv Kothari</b></sub><br/><a href="https://avatars.githubusercontent.com/u/36513491?s=60&v=4">🧠👨‍💻🚀❤️</a></td>
+	
+		
+</table>
+
 
 
 

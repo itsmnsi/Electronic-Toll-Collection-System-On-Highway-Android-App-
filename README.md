@@ -28,7 +28,9 @@ Android
 ### Creators :zap::dizzy:
 <table>
 		<tr>
-			<td align="center"><img src=""  width=100px;"><br /><sub><b>Manasi Patil</b></sub><br/><a href="https://avatars.githubusercontent.com/u/36513491?s=60&v=4">🧠👨‍💻🚀❤️</a></td>
+			<td align="center"><img src="https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/DSC_0118.JPG"  width=100px;"><br /><sub><b>Manasi Patil</b></sub><br/><a href="https://github.com/itsmnsi">🧠👨‍💻🚀❤️</a></td>
+			<td align="center"><img src="https://avatars.githubusercontent.com/u/81746542?s=60&v=4"  width=100px;"><br /><sub><b>Vrushali Pawar</b></sub><br/><a href="https://github.com/Vrushali0203">🧠👨‍💻🚀❤️</a></td>
+				
 	
 		
 </table>

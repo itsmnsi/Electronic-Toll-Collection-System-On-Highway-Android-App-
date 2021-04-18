@@ -1,5 +1,12 @@
 # Electronic-Toll-Collection-System-On-Highway-Android-App-
 
+<b>Technologies Used</b><br><br>
+For forntend
+Android
+
+
+
+
 <b>Snapshots</b><br><br>
 
 <img align="left" alt="snapshot1" src="https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/1.jpg" width="250" height="400" />

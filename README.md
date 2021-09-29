@@ -2,7 +2,7 @@
 
 ### Technologies Used
 
-- For Fornt-end
+- For Front-end
 	- Android
 	- Java programming
 	- XML
